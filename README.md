@@ -1,5 +1,3 @@
-# smart-thermal-control-tomato-transport
-IoT-based smart thermal monitoring and control system for tomato transport using ESP32 and environmental sensors
 ![IoT](https://img.shields.io/badge/IoT-ESP32-orange)
 ![Sensors](https://img.shields.io/badge/Sensors-Environmental-green)
 ![Embedded](https://img.shields.io/badge/Programming-Arduino-blue)
